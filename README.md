@@ -1,4 +1,4 @@
-# EAeaspo Training and Inference Code
+# Easpo Training and Inference Code
 
 This folder contains the code for EAeaspo training and inference.
 
