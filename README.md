@@ -3,7 +3,7 @@
 This folder contains the code for EAeaspo training and inference.
 
 
-1. Run the Docker Container and Enter It
+1. Setup environment
 
 > ```bash
 > conda env create -f environment.yaml --name easpo
